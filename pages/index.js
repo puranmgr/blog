@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hi, I'm Puran. I'm a software engineer and guitar player.
         <p>You can contact me on <a href="https://twitter.com/puranmgr">Twitter</a> |
-        <a href="https://twitter.com/puranmgr"> GitHub </a> |
+        <a href="https://github.com/puranmgr"> GitHub </a> |
         <a href="https://www.linkedin.com/in/puranpun/"> Linkedin </a>
           </p>
 
